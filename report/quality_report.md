@@ -3,7 +3,7 @@
 ## 1. Введение
 
 **Датасет:** Wind & Solar Energy Production Dataset
-**Источник:** https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset 
+**Источник:** https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset
 **Размер:** 51.864×9
 
 **Предметная область:** Датасет "Wind & Solar Energy Production Dataset" представляет собой детализированный почасовой учёт производства электроэнергии из возобновляемых источников (ветра и солнца) во Франции за период с 1 января 2020 года по 30 ноября 2025 года. Набор данных состоит из 51 864 полных записей и включает 9 признаков.
